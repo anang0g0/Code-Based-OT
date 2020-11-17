@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/Oblivious_transfer
 
 ２．ボブは秘密の乱数ｋとランダムエラーeとそのハッシュ値h(e)、秘密のビットb=(0,1)を選び、次のようにアリスの公開鍵で暗号化しアリスに暗号文ｖを送る。
 
-v=(h(e)^(xbH^kH),eH)、ここでwt(x0)=wt(x1)=wt(k)=t/2である。
+v=(h(e)^(xbH^kH),eH)、ここでwt(x0)=wt(x1)=wt(k)=t/2、そしてwt(e)=tである。
 
 ３．アリスはvを復号してxb^kを取り出し、次を計算する。ここでhはハッシュ関数である。
 
