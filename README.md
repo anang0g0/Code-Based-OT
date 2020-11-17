@@ -17,6 +17,8 @@ https://en.wikipedia.org/wiki/Oblivious_transfer
 
 v=(h(e)^(xbH^kH),eH)、ここでwt(x0)=wt(x1)=wt(k)=t/2,wt(e)=tである。
 
+アリスがボブからのメッセージの復号に失敗したら、成功するまでやり直す。
+
 ３．アリスはvを復号して(xb^k)を取り出し、次を計算する。ここでhはハッシュ関数である。
 
 k0 = h(xb^x0^k)
