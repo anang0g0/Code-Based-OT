@@ -18,6 +18,7 @@ https://en.wikipedia.org/wiki/Oblivious_transfer
 v=(h(e)^(xbH^kH),eH)、ここでwt(x0)=wt(x1)=wt(k)=t/2である。
 
 ３．アリスはvを復号してxb^kを取り出し、次を計算する。ここでhはハッシュ関数である。
+
 k0 = h(xb^x0^k)
 
 k1 = h(xb^x1^k)
