@@ -4,6 +4,12 @@ https://eprint.iacr.org/2007/382.pdf
 
 https://en.wikipedia.org/wiki/Oblivious_transfer
 
+# 20201121
+
+https://qiita.com/fumumue/items/1849e283dc213a6f55f6
+
+一般化してみました。
+
 # 20201118
 
 英語版ウィキの忘却転送によるメッセージ選択を、ニーダーライターで実現できるという確証が得られたので実装することにする。
