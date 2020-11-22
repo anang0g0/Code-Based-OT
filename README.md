@@ -6,7 +6,7 @@ https://eprint.iacr.org/2007/382.pdf
 
 https://en.wikipedia.org/wiki/Oblivious_transfer
 
-# 20201122
+# 20201122（その２）
 
 https://www.nict.go.jp/publication/shuppan/kihou-journal/kihou-vol57no3_4/kihou-vol57no3-4_0403.pdf
 
