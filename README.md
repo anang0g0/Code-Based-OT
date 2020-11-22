@@ -31,15 +31,15 @@ b=1のとき$x_1=(H',H),m_1$が欲しい。
 ```math
 b=0 then
 
-$c_0=(h(e_0) \oplus m_0H) ,e_0H)$
+c_0=(h(e_0) \oplus m_0H) ,e_0H)
 
-$c_1=(h(e_1) \oplus m_1H') ,e_1H')$
+c_1=(h(e_1) \oplus m_1H') ,e_1H')
 
 b=1 then
 
-$c_0=(h(e_0) \oplus m_0H') ,e_0H')$
+c_0=(h(e_0) \oplus m_0H') ,e_0H')
 
-$c_1=(h(e_1) \oplus m_1H) ,e_1H) $
+c_1=(h(e_1) \oplus m_1H) ,e_1H) 
 
 ```
 
