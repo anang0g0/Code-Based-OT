@@ -6,6 +6,13 @@ https://eprint.iacr.org/2007/382.pdf
 
 https://en.wikipedia.org/wiki/Oblivious_transfer
 
+# 20201123
+
+OTその1をQC-LDPCで復活させる。
+
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.4542&rep=rep1&type=pdf
+
+
 # 20201122（その２：二番煎じなので価値がない）
 
 https://www.nict.go.jp/publication/shuppan/kihou-journal/kihou-vol57no3_4/kihou-vol57no3-4_0403.pdf
