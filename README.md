@@ -29,7 +29,9 @@ LDPCを使えばn/2くらいの重みでも訂正できる。
 
 https://eprint.iacr.org/2017/494.pdf
 
+対抗策
 
+https://arxiv.org/pdf/1808.01945.pdf
 
 # 20201122（その２：二番煎じなので価値がない）
 
