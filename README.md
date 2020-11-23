@@ -8,9 +8,24 @@ https://en.wikipedia.org/wiki/Oblivious_transfer
 
 # 20201123
 
-OTその1をQC-LDPCで復活させる。
+OTその1をQC-LDPCで復活させる。（調査は大事）
 
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.4542&rep=rep1&type=pdf
+
+https://www.fei.stuba.sk/buxus/docs/2017/autoreferaty/Fabsic_autoref.pdf
+
+https://eprint.iacr.org/2012/409.pdf
+
+LDPCを使えばn/2くらいの重みでも訂正できる。
+つまりアリスの秘密のベクトルの重みwt(xb)=wt(k)=n/2wt(xb)=wt(k)=n/2とすると、
+仮にアリスがxbxbを使って復号したとしても、エラーパターンのハミング重み自体には
+変化が少なく（互いに消しあったりするため）、その結果x0⊕x1⊕k,とkx0⊕x1⊕k,とk
+の違いは見分けられなくなる。
+しかし従来の攻撃法には低密度パリティチェック符号は弱かった。
+そこで上記の論文で採用された方式を使って公開鍵の安全性を高めたうえで、QC-LDPCを使い
+この方式を復活させることを思いついた。
+この修正バージョンは既存の攻撃の影響を受けず、
+現在はQC-LDPCMcEliece暗号システムとして知られています。
 
 
 # 20201122（その２：二番煎じなので価値がない）
