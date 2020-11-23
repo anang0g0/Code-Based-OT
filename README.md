@@ -16,6 +16,9 @@ https://www.fei.stuba.sk/buxus/docs/2017/autoreferaty/Fabsic_autoref.pdf
 
 https://eprint.iacr.org/2012/409.pdf
 
+最新
+https://arxiv.org/pdf/1904.12215.pdf
+
 LDPCを使えばn/2くらいの重みでも訂正できる。
 つまりアリスの秘密のベクトルの重みwt(xb)=wt(k)=n/2wt(xb)=wt(k)=n/2とすると、
 仮にアリスがxbxbを使って復号したとしても、エラーパターンのハミング重み自体には
