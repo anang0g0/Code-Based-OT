@@ -6,6 +6,13 @@ https://eprint.iacr.org/2007/382.pdf
 
 https://en.wikipedia.org/wiki/Oblivious_transfer
 
+# 20201124
+
+https://www.researchgate.net/publication/260867979_QC-LDPC_Code-Based_Cryptography
+
+多分ここでのメインコンテンツはLDPCの復号になると思う。
+技術者の中でもこれを実装レベルで理解している人ってどのくらいいるんだろう？
+
 # 20201123
 
 OTその1をQC-LDPCで復活させる。（調査は大事）
