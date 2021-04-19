@@ -6,6 +6,15 @@ https://eprint.iacr.org/2007/382.pdf
 
 https://en.wikipedia.org/wiki/Oblivious_transfer
 
+
+GoppaDecorderの暗号化はきっと他の誰かがやってくれると勝手に期待して、次のテーマに進みたい気分。
+
+そこでこのリスト復号か、１変数多項式で作る符号か、符号の多重線型写像かで迷うのだがまだどれかはっきりしない。
+
+Wild McElieceもいいけど、後追いばかりでオリジナルがないというのもちょっと残念なのでもう少し考える。
+
+まだオリジナリティを追求するレベルじゃないのかもしれないです。
+
 # 20201122（その２：二番煎じなので価値がない）
 
 https://www.nict.go.jp/publication/shuppan/kihou-journal/kihou-vol57no3_4/kihou-vol57no3-4_0403.pdf
